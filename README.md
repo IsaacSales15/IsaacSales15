@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Typescript/NextJS
 - 💞️ I’m looking to collaborate on KayoLucasS2
 - 🤔 I’m looking for help with minha sanidade mental
-- 😄 Pronouns: Combat/Helicopter
 - ⚡ Fun fact: Penguins only have one knee joint, bizarro
 
 Contato:
