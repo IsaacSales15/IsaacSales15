@@ -9,7 +9,7 @@
 🔭 Estudante de informática focado em programação FullStack 
 
 
-🌱 Atualmente estou estudando NextJS e Java Spring Boot
+🌱 Atualmente estou estudando NextJS
 
 💬 Sou entusiasta no desenvolvimento NodeJS para APIs
 
