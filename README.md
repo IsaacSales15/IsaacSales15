@@ -9,7 +9,7 @@
 🔭 Estudante de informática focado em programação FullStack 
 
 
-🌱 Atualmente estou estudando NextJS
+🌱 Atualmente estou estudando NestJS
 
 💬 Sou entusiasta no desenvolvimento NodeJS para APIs
 
