@@ -6,12 +6,12 @@
 
 <div align="center">
   
-🔭 Estudante de informática focado em programação FullStack 
+🔭 Estudante de Informática Focado em Programação FullStack 
 
 
-🌱 Atualmente estou estudando NestJS
+🌱 Atualmente Estou Estudando NestJS e Spring Boot
 
-💬 Sou entusiasta no desenvolvimento NodeJS para APIs
+💬 Sou Entusiasta no Desenvolvimento NodeJS para Sistemas BackEnd
 
 </div>
 <div align="center">
