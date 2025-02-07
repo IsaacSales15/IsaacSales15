@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Estudante de Informática Focado em Programação FullStack 
+🔭 Estudante de Informática Focado em Programação Backend 
 
 
 🌱 Atualmente Estou Estudando NestJS e Spring Boot
