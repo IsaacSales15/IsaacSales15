@@ -13,11 +13,18 @@
 
 💬 Sou Entusiasta no Desenvolvimento NodeJS para Sistemas BackEnd
 
+**Principais Projetos:**
+
+* [kaution-backend](https://github.com/Coacervados/kaution-backend)
+* [BotO](https://github.com/Coacervados/BotO)
+* [rh-api](https://github.com/IsaacSales15/rh-api)
+* [Marketplace-API](https://github.com/IsaacSales15/Marketplace-API)
+
 </div>
 <div align="center">
   <a href="https://github.com/IsaacSales15">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -33,5 +40,3 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg">
 </div>
-
-
