@@ -18,7 +18,7 @@
 * [rh-api](https://github.com/IsaacSales15/rh-api).
 * [Marketplace-API](https://github.com/IsaacSales15/Marketplace-API).
 
-<div align="center">
+<div>
   <a href="https://github.com/IsaacSales15">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=7&theme=dark"/>
