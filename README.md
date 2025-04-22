@@ -6,19 +6,19 @@
 
 <div align="center">
   
-🔭 Estudante de Informática Focado em Programação FullStack 
+🔭 Estudante de Informática Focado em Programação FullStack.
 
 
-🌱 Atualmente Estou Estudando ReactJS e Spring Boot
+🌱 Atualmente Estou Estudando ReactJS e Spring Boot.
 
-💬 Sou Entusiasta no Desenvolvimento NodeJS para Sistemas BackEnd
+💬 Sou Entusiasta no Desenvolvimento NodeJS para Sistemas BackEnd.
 
 **Principais Projetos:**
 
-* [kaution-backend](https://github.com/Coacervados/kaution-backend)
-* [BotO](https://github.com/Coacervados/BotO)
-* [rh-api](https://github.com/IsaacSales15/rh-api)
-* [Marketplace-API](https://github.com/IsaacSales15/Marketplace-API)
+* [kaution-backend](https://github.com/Coacervados/kaution-backend).
+* [BotO](https://github.com/Coacervados/BotO).
+* [rh-api](https://github.com/IsaacSales15/rh-api).
+* [Marketplace-API](https://github.com/IsaacSales15/Marketplace-API).
 
 </div>
 <div align="center">
