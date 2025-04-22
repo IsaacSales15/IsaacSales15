@@ -9,7 +9,7 @@
 
 🌱 Atualmente Estou Estudando ReactJS e Spring Boot.
 
-💬 Sou Entusiasta no Desenvolvimento NodeJS para Sistemas BackEnd.
+💬 Sou Entusiasta no Desenvolvimento Java para Sistemas BackEnd.
 
 **Principais Projetos:**
 
