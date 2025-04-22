@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Isaac+Sales!%F0%9F%A4%96%F0%9F%92%BB%F" alt="Typing SVG">
   </a>
 </p>
-
-<div align="center">
   
 🔭 Estudante de Informática Focado em Programação FullStack.
 
@@ -12,8 +10,6 @@
 🌱 Atualmente Estou Estudando ReactJS e Spring Boot.
 
 💬 Sou Entusiasta no Desenvolvimento NodeJS para Sistemas BackEnd.
-
-</div>
 
 **Principais Projetos:**
 
