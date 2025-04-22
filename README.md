@@ -13,6 +13,8 @@
 
 💬 Sou Entusiasta no Desenvolvimento NodeJS para Sistemas BackEnd.
 
+</div>
+
 **Principais Projetos:**
 
 * [kaution-backend](https://github.com/Coacervados/kaution-backend).
@@ -20,7 +22,6 @@
 * [rh-api](https://github.com/IsaacSales15/rh-api).
 * [Marketplace-API](https://github.com/IsaacSales15/Marketplace-API).
 
-</div>
 <div align="center">
   <a href="https://github.com/IsaacSales15">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
