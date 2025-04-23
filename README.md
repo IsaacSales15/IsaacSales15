@@ -16,7 +16,7 @@
 * [kaution-backend](https://github.com/Coacervados/kaution-backend).
 * [BotO](https://github.com/Coacervados/BotO).
 * [rh-api](https://github.com/IsaacSales15/rh-api).
-* [Marketplace-API](https://github.com/IsaacSales15/Marketplace-API).
+* [game-list-api](https://github.com/IsaacSales15/list-api).
 
 <div>
   <a href="https://github.com/IsaacSales15">
