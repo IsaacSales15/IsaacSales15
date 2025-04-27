@@ -31,20 +31,15 @@
 
 <br>
 
-<div>
-  <a href="https://github.com/IsaacSales15">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/IsaacSales15">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Isaac's GitHub stats"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=8&theme=radical" alt="Isaac's most used languages"/>
-  </a>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <br>
