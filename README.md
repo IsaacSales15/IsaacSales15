@@ -1,7 +1,7 @@
 <!-- Banner animado de apresentação -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Isaac+Sales!%F0%9F%91%8B%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Olá,+eu+sou+o+Isaac+Sales!%F0%9F%91%8B%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -69,7 +69,7 @@
   <a href="https://github.com/IsaacSales15" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/isaac-sales-057bb1316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -77,5 +77,5 @@
 <br>
 
 <!-- Frase de impacto final -->
-<h3 align="center">✨ "Transformando ideias em código!"</h3>
+<h3 align="center">"Aquilo que se faz por amor está sempre além do bem ou do mal."</h3>
 
