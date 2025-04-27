@@ -1,7 +1,7 @@
 <!-- Banner animado de apresentação -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Isaac+Sales!%F0%9F%91%8B%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Isaac+Sales.%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
 
