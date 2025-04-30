@@ -11,7 +11,7 @@
 <h2 align="center">🚀 Sobre mim</h2>
 
 <ul>
-  <li>🔭 Estudante de <strong>Informática</strong>, focado em <strong>Desenvolvimento FullStack</strong>.</li>
+  <li>🔭 Estudante de <strong>Informática</strong>, focado em <strong>Desenvolvimento Back-End</strong>.</li>
   <li>🌱 Atualmente aprendendo <strong>ReactJS</strong> e <strong>Spring Boot</strong>.</li>
   <li>💬 Entusiasta de <strong>Java</strong> e <strong>Node.js</strong> para sistemas <strong>Back-End</strong>.</li>
   <li>🎯 Sempre buscando evoluir, compartilhar conhecimento e construir projetos incríveis!</li>
