@@ -76,9 +76,6 @@
 <h2 align="center">📫 Vamos nos conectar!</h2>
 
 <p align="center">
-  <a href="salesconts@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://instagram.com/isaac_salless" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
