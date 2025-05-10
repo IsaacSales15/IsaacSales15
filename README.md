@@ -25,6 +25,7 @@
 <ul>
   <li><a href="https://github.com/Coacervados/kaution-backend">Kaution Backend</a></li>
   <li><a href="https://github.com/Coacervados/BotO">BotO</a></li>
+  <li><a href="https://github.com/IsaacSales15/java-mvc">Java Application</a></li>
   <li><a href="https://github.com/IsaacSales15/rh-api">RH API</a></li>
   <li><a href="https://github.com/IsaacSales15/list-api">Game List API</a></li>
 </ul>
