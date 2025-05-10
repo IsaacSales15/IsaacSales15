@@ -31,8 +31,6 @@
 
 <br>
 
-
-
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -52,14 +50,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="TypeScript" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="NestJS" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/h2database/h2database-original.svg" alt="H2 Database" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="Prisma" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45" height="45"/>
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-mark.svg" alt="Neovim" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="60" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
@@ -72,6 +76,12 @@
 <h2 align="center">📫 Vamos nos conectar!</h2>
 
 <p align="center">
+  <a href="mailto:isaacsales.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/isaacsales.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   <a href="https://github.com/IsaacSales15" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -84,4 +94,3 @@
 
 <!-- Frase de impacto final -->
 <h3 align="center">"Aquilo que se faz por amor está sempre além do bem ou do mal."</h3>
-
