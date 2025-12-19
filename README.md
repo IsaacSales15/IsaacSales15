@@ -1,77 +1,110 @@
-<!-- Banner animado de apresentação -->
+<!-- ===================== BANNER ===================== -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Isaac+Sales.%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+Isaac+Sales;Back-End+Developer+em+Formação;Java+%7C+Node.js+%7C+Spring+Boot" alt="Typing SVG" />
   </a>
 </div>
-<br>
 
-<!-- Sobre mim -->
-<h2 align="center">🚀 Sobre mim</h2>
+<p align="center">
+  <strong>Desenvolvimento Back-End • APIs • Arquitetura • Boas práticas</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsaacSales15&style=flat-square&color=00FF88" alt="profile views" />
+</p>
+
+---
+
+<!-- ===================== SOBRE ===================== -->
+
+<h2 align="center">Sobre mim</h2>
+
+<p align="center">
+Sou estudante de <strong>Informática</strong> com foco sólido em <strong>Desenvolvimento Back-End</strong>. Tenho interesse especial em <strong>arquitetura de sistemas</strong>, <strong>APIs bem estruturadas</strong> e <strong>código limpo</strong>. Busco constantemente evoluir tecnicamente e transformar conhecimento em projetos reais.
+</p>
 
 <ul>
-  <li>🔭 Estudante de <strong>Informática</strong>, focado em <strong>Desenvolvimento Back-End</strong>.</li>
-  <li>🌱 Atualmente aprendendo <strong>ReactJS</strong> e <strong>Spring Boot</strong>.</li>
-  <li>💬 Entusiasta de <strong>Java</strong> e <strong>Node.js</strong> para sistemas <strong>Back-End</strong>.</li>
-  <li>🎯 Sempre buscando evoluir, compartilhar conhecimento e construir projetos incríveis!</li>
+  <li>🎓 Foco principal: <strong>Back-End</strong></li>
+  <li>🚀 Stack favorita: <strong>Java</strong> e <strong>Node.js</strong></li>
+  <li>📚 Estudando atualmente: <strong>ReactJS</strong> e <strong>Spring Boot</strong></li>
+  <li>🧠 Interesse em: <strong>APIs REST</strong>, <strong>ORMs</strong>, <strong>Banco de Dados</strong> e <strong>Arquitetura</strong></li>
 </ul>
 
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Stats</h2>
+---
+
+<!-- ===================== STATS ===================== -->
+
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/IsaacSales15">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaacSales15&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSales15&layout=compact&langs_count=8&theme=radical" />
 </div>
 
-<br>
+---
 
-<!-- Tecnologias e Ferramentas -->
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<!-- ===================== STACK ===================== -->
 
+<h2 align="center">Tecnologias & Ferramentas</h2>
+
+<h3 align="center">Back-End</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="NestJS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="Prisma" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45" height="45"/>
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="60" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" width="45" />
 </div>
 
-<br>
+<h3 align="center">Front-End</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+</div>
 
-<!-- Contato / Redes sociais -->
-<h2 align="center">📫 Vamos nos conectar!</h2>
+<h3 align="center">Banco de Dados</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" />
+</div>
+
+<h3 align="center">Dev & Ambiente</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" />
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="45" />
+</div>
+
+---
+
+<!-- ===================== CONTATO ===================== -->
+
+<h2 align="center">Conecte-se comigo</h2>
 
 <p align="center">
   <a href="https://instagram.com/isaac_salless" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/IsaacSales15" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/isaac-sales-057bb1316/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<br>
+---
 
-<!-- Frase de impacto final -->
-<h3 align="center">"Aquilo que se faz por amor está sempre além do bem ou do mal."</h3>
+<h3 align="center">“Aquilo que se faz por amor está sempre além do bem ou do mal.”</h3>
+
+<p align="center"><em>— Friedrich Nietzsche</em></p>
