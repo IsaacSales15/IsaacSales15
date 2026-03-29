@@ -15,7 +15,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-Sou estudante de <strong>Informática</strong> com foco sólido em <strong>Desenvolvimento Back-End</strong>. Tenho interesse especial em <strong>arquitetura de sistemas</strong>, <strong>APIs bem estruturadas</strong> e <strong>código limpo</strong>. Busco constantemente evoluir tecnicamente e transformar conhecimento em projetos reais.
+Sou estudante de <strong>Informática</strong> com foco sólido em <strong>Desenvolvimento Full Stack</strong>. Tenho interesse especial em <strong>arquitetura de sistemas</strong>, <strong>APIs bem estruturadas</strong> e <strong>código limpo</strong>. Busco constantemente evoluir tecnicamente e transformar conhecimento em projetos reais.
 </p>
 
 <ul>
