@@ -1,11 +1,5 @@
 <!-- ===================== BANNER ===================== -->
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00FF88&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+Isaac+Sales;Back-End+Developer+em+Formação;Java+%7C+Node.js+%7C+Spring+Boot" alt="Typing SVG" />
-  </a>
-</div>
-
 <p align="center">
   <strong>Desenvolvimento Back-End • APIs • Arquitetura • Boas práticas</strong>
 </p>
@@ -25,7 +19,7 @@ Sou estudante de <strong>Informática</strong> com foco sólido em <strong>Desen
 </p>
 
 <ul>
-  <li>🎓 Foco principal: <strong>Back-End</strong></li>
+  <li>🎓 Foco principal: <strong>Full Stack</strong></li>
   <li>🚀 Stack favorita: <strong>Java</strong> e <strong>Node.js</strong></li>
   <li>📚 Estudando atualmente: <strong>ReactJS</strong> e <strong>Spring Boot</strong></li>
   <li>🧠 Interesse em: <strong>APIs REST</strong>, <strong>ORMs</strong>, <strong>Banco de Dados</strong> e <strong>Arquitetura</strong></li>
@@ -105,6 +99,6 @@ Sou estudante de <strong>Informática</strong> com foco sólido em <strong>Desen
 
 ---
 
-<h3 align="center">“Aquilo que se faz por amor está sempre além do bem ou do mal.”</h3>
+<h3 align="center">"Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento."</h3>
 
-<p align="center"><em>— Friedrich Nietzsche</em></p>
+<p align="center"><em>— Provérbios 3:5</em></p>
