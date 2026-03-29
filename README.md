@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <strong>Desenvolvimento Back-End • APIs • Arquitetura • Boas práticas</strong>
+  <strong>Desenvolvimento Full Stack • APIs • Arquitetura • Boas práticas</strong>
 </p>
 
 <p align="center">
